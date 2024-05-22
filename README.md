@@ -1,4 +1,4 @@
-# Batch Runs Package
+# Batch Runs
 ## Overview
 This package facilitates batch runs for your simulations.
 
@@ -24,7 +24,7 @@ If no arguments are provided, `run_batches` will run with the default XLSX and C
 ### Arguments
 - `--xlsx XLSX_FILE_PATH`: Path to the XLSX file containing batch job parameters.
 - `--csv CSV_FILE_PATH`: Path to the CSV file containing batch job parameters.
-- `--SERVER_URL SERVER_URL`: Optional. The URL of the server to send batch job results to.
+- `--SERVER_URL SERVER_URL`: Optional. The URL of the server to get batch results.
 
 Refer to the `run_batches` command above for more details on usage.
 
